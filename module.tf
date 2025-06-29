@@ -1,3 +1,6 @@
+## This file is used to define the Terraform modules and their dependencies.
+# It includes the required providers, backend configuration, and module sources.
+
 terraform {
   required_providers {
     azurerm = {
